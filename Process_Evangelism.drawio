@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="cOgU7hjmjJvWijCojQ1F">
-    <mxGraphModel dx="1358" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2227" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1qVqDtgRL5_yvvf13ffs-1" value="Membre Actif&lt;div&gt;(Centre)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="260" width="120" height="80" as="geometry" />
+          <mxGeometry x="210" y="790" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1qVqDtgRL5_yvvf13ffs-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1qVqDtgRL5_yvvf13ffs-2" target="1qVqDtgRL5_yvvf13ffs-4">
           <mxGeometry relative="1" as="geometry" />
@@ -16,29 +16,63 @@
         <mxCell id="1qVqDtgRL5_yvvf13ffs-2" value="Membre Associé" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="100" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1qVqDtgRL5_yvvf13ffs-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1qVqDtgRL5_yvvf13ffs-3" target="1qVqDtgRL5_yvvf13ffs-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1qVqDtgRL5_yvvf13ffs-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1qVqDtgRL5_yvvf13ffs-3" target="1qVqDtgRL5_yvvf13ffs-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1qVqDtgRL5_yvvf13ffs-3" value="Friendly Pastor" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="190" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="1qVqDtgRL5_yvvf13ffs-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1qVqDtgRL5_yvvf13ffs-4" target="1qVqDtgRL5_yvvf13ffs-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1qVqDtgRL5_yvvf13ffs-4" value="Cooperation Pastors&lt;div&gt;(MOU)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="190" width="120" height="80" as="geometry" />
+          <mxGeometry x="400" y="446.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1qVqDtgRL5_yvvf13ffs-6" value="Members of SCJ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="190" width="120" height="80" as="geometry" />
+          <mxGeometry x="690" y="446.5" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1qVqDtgRL5_yvvf13ffs-12" value="Outils ? deux outils&amp;nbsp;&lt;div&gt;- un pour les pasteurs&lt;/div&gt;&lt;div&gt;- un pour les membres de la DMD&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;Mannam ?&lt;/div&gt;&lt;div&gt;redirection ?&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="10" y="360" width="310" height="160" as="geometry" />
+        <mxCell id="1qVqDtgRL5_yvvf13ffs-12" value="Outils ? deux outils&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;Ment 1 : un pour les membres de la DMD&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Ment 2 :&amp;nbsp; un pour les pasteurs&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Support ? PPT et Brochure&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Mannam ?&lt;/div&gt;&lt;div&gt;redirection ?&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="220" width="310" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="1qVqDtgRL5_yvvf13ffs-14" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Pastor Gathering (acheter leur coeur)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Evenement à faire ensemble&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Apprendre la parole&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="520" y="300" width="380" height="200" as="geometry" />
+        <mxCell id="1qVqDtgRL5_yvvf13ffs-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1qVqDtgRL5_yvvf13ffs-17" target="1qVqDtgRL5_yvvf13ffs-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-360" y="485.97058823529414" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1qVqDtgRL5_yvvf13ffs-17" value="Calling" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="456.5" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1qVqDtgRL5_yvvf13ffs-18" value="&lt;font color=&quot;#ff0000&quot;&gt;Ment 1&amp;nbsp;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="499.5" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1qVqDtgRL5_yvvf13ffs-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1qVqDtgRL5_yvvf13ffs-20" target="1qVqDtgRL5_yvvf13ffs-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1qVqDtgRL5_yvvf13ffs-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1qVqDtgRL5_yvvf13ffs-20" target="1qVqDtgRL5_yvvf13ffs-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1qVqDtgRL5_yvvf13ffs-20" value="Mannam&lt;div&gt;(Offline ou online)&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="440" width="160" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="1qVqDtgRL5_yvvf13ffs-24" value="Ttagui&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#009900&quot;&gt;Point 1 et 2&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1qVqDtgRL5_yvvf13ffs-25" value="Ttagui&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;font color=&quot;#009900&quot;&gt;3 (veut apprendre)&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="567" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1qVqDtgRL5_yvvf13ffs-28" value="Friendly Pastor" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="440" width="160" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="1qVqDtgRL5_yvvf13ffs-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1qVqDtgRL5_yvvf13ffs-28" target="1qVqDtgRL5_yvvf13ffs-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1qVqDtgRL5_yvvf13ffs-15" value="&lt;font color=&quot;#7f00ff&quot;&gt;Une brochure&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#7f00ff&quot;&gt;Un PPT&lt;/font&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-223" y="446.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1qVqDtgRL5_yvvf13ffs-30" value="&lt;ol&gt;&lt;li&gt;&lt;font color=&quot;#009900&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Pastor Gathering (acheter leur coeur)&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;font color=&quot;#009900&quot;&gt;Evenement à faire ensemble&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;font color=&quot;#009900&quot;&gt;Apprendre la parole&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="559.5" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1qVqDtgRL5_yvvf13ffs-31" value="BB" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="790" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
