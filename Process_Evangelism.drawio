@@ -155,7 +155,49 @@
           <mxGeometry x="-590" y="1280" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1qVqDtgRL5_yvvf13ffs-66" value="&lt;font face=&quot;Tahoma&quot;&gt;&lt;b&gt;SUBAE / MANNAM REPORT&lt;/b&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="-630" y="1200" width="270" height="60" as="geometry" />
+          <mxGeometry x="-635" y="1200" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1qVqDtgRL5_yvvf13ffs-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1qVqDtgRL5_yvvf13ffs-70" target="1qVqDtgRL5_yvvf13ffs-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1qVqDtgRL5_yvvf13ffs-70" value="New Member" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1685" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1qVqDtgRL5_yvvf13ffs-71" value="&lt;font face=&quot;Tahoma&quot;&gt;&lt;b&gt;PROCESS RECRUTEMENT&lt;/b&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1400" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1qVqDtgRL5_yvvf13ffs-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1qVqDtgRL5_yvvf13ffs-75" target="1qVqDtgRL5_yvvf13ffs-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1qVqDtgRL5_yvvf13ffs-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1qVqDtgRL5_yvvf13ffs-75" target="1qVqDtgRL5_yvvf13ffs-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1qVqDtgRL5_yvvf13ffs-75" value="Center Workers" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="1670" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1qVqDtgRL5_yvvf13ffs-76" value="Team Conference / Culture" style="ellipse;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1505" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1qVqDtgRL5_yvvf13ffs-79" value="Managers" style="shape=delay;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="1660" width="160" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="1qVqDtgRL5_yvvf13ffs-80" value="JDSN / GSN" style="shape=delay;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="1725" width="160" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="1qVqDtgRL5_yvvf13ffs-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1qVqDtgRL5_yvvf13ffs-83" target="1qVqDtgRL5_yvvf13ffs-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1qVqDtgRL5_yvvf13ffs-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1qVqDtgRL5_yvvf13ffs-83" target="1qVqDtgRL5_yvvf13ffs-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1qVqDtgRL5_yvvf13ffs-83" value="Beginner Member&lt;div&gt;&lt;br&gt;&lt;div&gt;(Searching)&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1670" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1qVqDtgRL5_yvvf13ffs-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1qVqDtgRL5_yvvf13ffs-86" target="1qVqDtgRL5_yvvf13ffs-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1qVqDtgRL5_yvvf13ffs-86" value="Intermediate Member&lt;div&gt;&lt;br&gt;&lt;div&gt;(Searching &amp;amp; Mannam)&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1670" width="190" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
